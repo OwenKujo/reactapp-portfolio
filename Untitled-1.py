@@ -1,1 +1,0 @@
-print("Hello from 660710184 Rapeepat Promlat")
